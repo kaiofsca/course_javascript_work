@@ -1,1 +1,1 @@
-# Códigos de Anotações das aulas do curso JS⚡
+# Códigos e Anotações das aulas do curso JS⚡
