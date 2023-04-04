@@ -27,3 +27,16 @@
 // console.log(typeof number) // Ve qual é o tipo deessa string
 
 {/* ------ Booleans ------ */}
+
+// false - quando algo é falso console.log(2 === 3)
+// true - quando algo é verdadeiro console.log(2 === 2)
+
+{/* ------ Null & Undefined ------ */}
+
+// const x = null // significa que ele não tem nenhum valor, vazio.
+// const y = undefined // como se a variável não tivesse sido definida ainda.
+
+{/* ------ Listas (arrays) & Objetos (objects) ------ */}
+
+// const lista = [1, 2, 3, 4, 5]
+// const object = {name: 'Kaio'}
