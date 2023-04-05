@@ -1,6 +1,6 @@
 {/*----- MAP, FILTER & REDUCE ------*/}
 
-// MAP - Vai executar uma determinada função em cada item dessa lista e retorna uma nova função cim a função executada em todos os itens. e na função do map sempre vai retornar alguma coisa ent tem qter o return.
+// MAP - Vai executar uma determinada função em cada item dessa lista e retorna uma nova função, e na função do map sempre vai retornar alguma coisa ent tem qter o return.
 const numbers = [1, 2, 3, 4, 5];
 const numbersMultipliedByTwo = numbers.map((itemAtual) =>{
     return itemAtual * 2;
