@@ -1,18 +1,18 @@
 # Códigos e Anotações das aulas do curso JS⚡
 
-01 - Introdução
-02 - Variáveis e Tipos
-03 - Listas
-04 - Map, Filter & Reduce
-05 - Objetos
-06 - JSON
-07 - Loops
-08 - Condicionais
-09 - Conceito de Truthy & Falsy
-10 - Funções e Arrow functions
-11 - POO
-12 - Selecionando elementos do DOM
-13 - Manipulando elementos do DOM
-14 - Eventos
-15 - Criando e validando formulários
-16 - Conclusão
+- Introdução 01
+- Variáveis e Tipos 02
+- Listas 03
+- Map, Filter & Reduce 04
+- Objetos 05
+- JSON 06
+- Loops 07
+- Condicionais 08
+- Conceito de Truthy & Falsy 09
+- Funções e Arrow functions 10
+- POO 11
+- Selecionando elementos do DOM 12
+- Manipulando elementos do DOM 13
+- Eventos 14
+- Criando e validando formulários 15
+- Conclusão 16
