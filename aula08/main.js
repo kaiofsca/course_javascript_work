@@ -28,5 +28,26 @@ if (sum1 === 4 || sum2 === 6) {
 }
 
 // Operadores Ternários - Perfeito para definir variáveis baseando em uma condição
+// Com operadores ternários
+let number = sum === 2 ? 2 : 4;
 
+if (sum === 2) {
+    number = 2;
+} else {
+    number = 4
+}
+// Sem operadores ternários
+console.log(number)
 
+// Entendendo o switch - Também bastante utilizado para executar determinado código em determinada condição.
+const car = 'Lamborghini';
+switch (car) {
+    case 'Mercedes' : 
+        console.log('Mercedes is beautiful!')
+        break;
+    case 'Ferrari' :
+        console.log('Ferrari is very good!')
+        break;
+    case 'Lamborghini' :
+        console.log('Lamborghini is very fast!')    
+}
