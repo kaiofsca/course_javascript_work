@@ -7,7 +7,7 @@ const button = document.querySelector('.btn')
 //items.remove()
 
 // - Removendo items específicos -
-
+console.log(items)
 //items.firstElementChild.remove()
 //items.lastElementChild.remove()
 //items.children[1].textContent = 'Item um'
