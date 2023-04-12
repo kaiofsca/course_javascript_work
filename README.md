@@ -16,3 +16,4 @@
 - Eventos 14
 - Criando e validando formulários 15
 - Conclusão 16
+- JavaScript Assíncrono - Callbacks, Promises & Async/Await
